@@ -5,7 +5,7 @@
 ![Main menu](https://drive.google.com/uc?export=view&id=1lp1wiwnkuX4880aT7xHLO8HnQBChnfXl)
 ## Control
 
-> - **`z` to advance.**
+> - **`z` to move forward.**
 > - **`s` to move backwards.**
 > - **`q` to turn the camera to the left.** 
 > - **`d` to turn the camera to the right.**
