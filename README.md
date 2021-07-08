@@ -1,5 +1,6 @@
 # Welcome to the labyrinth!
 **My first 3D game is a maze where the player sees in 1st person.**
+**the executable is downloadable in the release v1.0.**
 
 ![Launcher](https://drive.google.com/uc?export=view&id=1Bj8fis0sHceHrhw6C5DFiF9JdOTEcLo5)
 ![Main menu](https://drive.google.com/uc?export=view&id=1lp1wiwnkuX4880aT7xHLO8HnQBChnfXl)
