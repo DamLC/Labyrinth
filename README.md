@@ -5,17 +5,18 @@
 ![Main menu](https://drive.google.com/uc?export=view&id=1lp1wiwnkuX4880aT7xHLO8HnQBChnfXl)
 ## Control
 
-> - **`z` to move forward.**
-> - **`s` to move backwards.**
-> - **`q` to turn the camera to the left.** 
-> - **`d` to turn the camera to the right.**
+> - **Press `z` to move forward.**
+>  - **Press `s` to move backwards.**
+>   - **Press `q` to turn the camera to the left.** 
+>   - **Press `d` to turn the camera to the right.**
+>   - **Press `left Ctrl` to speed up .**
 
 **or**
 
-> - **`↑` to move forward.** 
-> - **`↓` to move backwards.**  
-> - **`←` to turn the camera to the left.** 
-> - **`→` to turn the camera to the right.**
+> - **Press `↑` to move forward.** 
+>  - **Press `↓` to move backwards.**  
+>  - **Press `←` to turn the camera to the left.** 
+>  - **Press `→` to turn the camera to the right.**
 ## Game:
 > - **1 menu (play /continue /exit)**
 > - **3 levels (2 playable and 1 congratulatory)**
